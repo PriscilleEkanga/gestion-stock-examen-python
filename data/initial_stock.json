@@ -1,0 +1,61 @@
+{
+  "vat_rate_default": 0.2,
+  "products": [
+    {
+      "sku": "P001",
+      "name": "Clavier mécanique",
+      "category": "Informatique",
+      "unit_price_ht": 49.9,
+      "quantity": 20
+    },
+    {
+      "sku": "P002",
+      "name": "Souris sans fil",
+      "category": "Informatique",
+      "unit_price_ht": 24.9,
+      "quantity": 15
+    },
+    {
+      "sku": "P003",
+      "name": "Câble USB-C (1m)",
+      "category": "Informatique",
+      "unit_price_ht": 15.0,
+      "quantity": 40
+    },
+    {
+      "sku": "P004",
+      "name": "Casque audio",
+      "category": "Informatique",
+      "unit_price_ht": 59.0,
+      "quantity": 12
+    },
+    {
+      "sku": "P005",
+      "name": "Ramette papier A4 (500 feuilles)",
+      "category": "Bureau",
+      "unit_price_ht": 5.8,
+      "quantity": 60
+    },
+    {
+      "sku": "P006",
+      "name": "Stylo bille (pack de 10)",
+      "category": "Bureau",
+      "unit_price_ht": 6.5,
+      "quantity": 35
+    },
+    {
+      "sku": "P007",
+      "name": "Agrafeuse",
+      "category": "Bureau",
+      "unit_price_ht": 9.9,
+      "quantity": 18
+    },
+    {
+      "sku": "P008",
+      "name": "Bloc-notes A5",
+      "category": "Bureau",
+      "unit_price_ht": 3.2,
+      "quantity": 50
+    }
+  ]
+}
